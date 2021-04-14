@@ -1,0 +1,28 @@
+body
+{
+        padding-top: 5%;
+}
+
+.container text-light bg-dark
+{
+    padding-bottom:50%;
+}
+
+.card-title {
+   border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    text-align: center;
+    padding-bottom: 2%;
+    color: pink;
+}
+
+#kontenerka
+{
+    padding-top: 1%;
+    border-radius: 1%;
+}
+
+.row
+{
+    padding-top:1%;
+}

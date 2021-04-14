@@ -1,0 +1,120 @@
+body
+{
+    margin:0;
+}
+#foot
+{
+    margin-top:5%;
+}
+
+#kontenerka
+{
+    margin-top: 1.5%;
+    padding-bottom: 2%;
+}
+
+.row
+{
+    padding-top: 2%;
+}
+
+
+#foot p
+{
+    margin:0;
+}
+
+img
+{
+    width:100%;
+}
+
+h3
+{
+    display: block;
+}
+#koszyk
+{
+    padding-top: 2%;
+}
+
+input
+{
+    width: 80%;
+}
+
+
+
+#forma
+{
+    width: 60%;
+     display: none;
+}
+
+#forma #sub
+{
+    width: 20%;
+    margin:auto;
+}
+#hajsform
+{
+    display: block;
+}
+
+table
+{
+    
+     width: 100%;
+     border-collapse: collapse;
+
+}
+
+.expiration input
+{
+    display: inline;
+    width: 20%;
+}
+
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+#kontenerka
+{
+    padding-top: 1%;
+    border-radius: 1%;
+}
+
+tr:hover 
+{
+    background-color: #0c5460;
+}
+
+@media screen and (min-width: 760px) and (max-width: 1030px) {
+  
+
+.card-body
+{
+    font-size: 80%;
+}
+
+.card-title
+{
+    font-size: 160%;
+}
+
+
+     
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 425px)
+{
+    #forma
+{
+    width: 100%;
+    
+}
+}

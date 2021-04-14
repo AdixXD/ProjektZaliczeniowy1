@@ -1,0 +1,45 @@
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+img:hover {
+  box-shadow: 0 4px 8px 0 #0f6674, 0 6px 20px 0 #0f6674;
+
+}
+
+
+img
+{
+ padding: 4px 4px;
+ margin:auto;
+ width: 30%;
+       
+ 
+}
+
+#kontenerka
+{
+    padding-top: 1%;
+    border-radius: 1%;
+}
+
+.zdjecia
+{
+ text-align: center;
+ padding-top: 5%;
+ padding-bottom: 5%;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px)
+{
+img
+{
+    width: 40%;
+    
+}
+}
